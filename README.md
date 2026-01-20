@@ -1,6 +1,6 @@
 # 🎵 Genreify — Music Genre Classifier
 
-Genreify is a full-stack project with a **React frontend** and a **Flask backend** that predicts the genre of music from audio files using a trained machine learning model.
+Genreify is a Full-Stack Project with a **React frontend** and a **Flask backend** that predicts the genre of music from audio files using a trained machine learning model.
 
 ---
 
